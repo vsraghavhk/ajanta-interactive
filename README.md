@@ -3,18 +3,7 @@
 
 A self-contained interactive guide to the Ajanta cave paintings and sculptures, by **S. Swaminathan, IIT Delhi**.
 
----
-
-## Running the guide locally
-
-You must serve the files through a local web server — opening `index.html` directly from your file manager will not work (the browser blocks the content loading for security reasons).
-
-```bash
-cd /path/to/ajanta-interactive
-python -m http.server 8000
-```
-
-Then open **http://localhost:8000** in your browser.
+**Live site:** [https://vsraghavhk.github.io/ajanta-interactive/](https://vsraghavhk.github.io/ajanta-interactive/)
 
 ---
 
@@ -46,14 +35,15 @@ ajanta-interactive/
 
 ## Editing existing content
 
-1. Find the file in `content/` that contains the section you want to edit.
-   - Cave pages are in `content/cave1/`, `content/cave2/`, etc.
-   - Each painting or topic has its own file (e.g. `content/cave1/c1-shibi.html`).
-   - The `intro.html` inside each cave folder is the introductory overview for that cave.
+Find the file in `content/` that contains the section you want to edit:
 
-2. Open the file and edit the text inside the `<p>` tags. Do not remove or change the `id=` attribute on the first paragraph — this is used for navigation.
+- Cave pages are in `content/cave1/`, `content/cave2/`, etc.
+- Each painting or topic has its own file (e.g. `content/cave1/c1-shibi.html`).
+- The `intro.html` inside each cave folder is the introductory overview for that cave.
 
-3. Save the file. Reload the browser to see the change.
+Edit the text inside the `<p>` tags. Do not remove or change the `id=` attribute on the first paragraph — this is used for sidebar navigation.
+
+See [DEVELOPER-README.md](DEVELOPER-README.md) for instructions on how to fork the repository, preview your changes locally, and submit them for review.
 
 **Do not change** image reference links — they look like this and must be left exactly as written:
 ```html
@@ -110,7 +100,7 @@ Open `manifest.json` and find the entry for the cave you are editing. Add the ne
 
 ### Step 3 — Reload and test
 
-Reload http://localhost:8000, navigate to the cave, and verify:
+Run the guide locally (see [DEVELOPER-README.md](DEVELOPER-README.md)), navigate to the cave, and verify:
 - The new section appears on the page in the correct position.
 - Clicking the sidebar entry scrolls to the section.
 
@@ -209,3 +199,4 @@ Adding or editing entries here will update the Glossary page immediately.
 - All other `<p>` tags use `class=""`.
 - Save as **UTF-8** to avoid garbled characters.
 - Do not add any `<div>`, `<h1>`, `<br>`, or other HTML tags — only `<p>` and `<span class="img-ref">`.
+

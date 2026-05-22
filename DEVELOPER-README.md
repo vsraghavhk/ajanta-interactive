@@ -225,11 +225,110 @@ Push to `main`. Enable Pages under **Settings → Pages → Deploy from branch �
 Upload all files as-is. No build step, no server-side logic required. The only runtime requirement is that `manifest.json` and the `content/` files are served over HTTP — `file://` protocol is not supported.
 
 ### Local development
+
+You must serve through a local HTTP server — `file://` is blocked by the browser. Python 3 is the easiest option (pre-installed on Mac/Linux; download from [python.org](https://www.python.org) on Windows):
+
 ```bash
+cd /path/to/ajanta-interactive
 python -m http.server 8000
 # then open http://localhost:8000
 ```
-Any HTTP server works (Node `http-server`, nginx, Apache, etc.).
+
+Any HTTP server works (Node `http-server`, nginx, Apache, etc.). Press `Ctrl+C` to stop.
+
+---
+
+## Contributing changes
+
+The repository is public. All contributions — whether code changes or content edits — go through a fork-and-pull-request workflow so that every change is reviewed before it reaches the live site.
+
+### Step 1 — Fork the repository
+
+On GitHub, click **Fork** in the top-right of [vsraghavhk/ajanta-interactive](https://github.com/vsraghavhk/ajanta-interactive). This creates your own copy of the repository under your GitHub account.
+
+### Step 2 — Clone your fork locally
+
+```bash
+git clone https://github.com/<your-username>/ajanta-interactive.git
+cd ajanta-interactive
+```
+
+Add the original repo as `upstream` so you can pull future updates:
+
+```bash
+git remote add upstream https://github.com/vsraghavhk/ajanta-interactive.git
+```
+
+### Step 3 — Create a feature branch
+
+Never work directly on `main`. Create a branch with a short descriptive name:
+
+```bash
+git checkout -b cave17-add-new-section
+```
+
+Use a naming pattern that reflects the change, e.g. `cave1-fix-shibi-text`, `glossary-updates`, `manifest-reorder-caves`.
+
+### Step 4 — Make and preview your changes
+
+Edit the relevant files in `content/` and/or `manifest.json`. Preview locally before committing:
+
+```bash
+python -m http.server 8000
+# open http://localhost:8000 and verify your changes
+```
+
+### Step 5 — Commit your changes
+
+Stage only the files you changed:
+
+```bash
+git add content/cave17/c17-newfile.html manifest.json
+git commit -m "cave17: add section for new painting"
+```
+
+Commit messages should be short and specific. Prefix with the area of change (e.g. `cave1:`, `manifest:`, `css:`, `glossary:`).
+
+### Step 6 — Keep your branch up to date
+
+Before opening a pull request, pull any changes that have landed on `upstream/main` since you branched:
+
+```bash
+git fetch upstream
+git rebase upstream/main
+```
+
+Resolve any conflicts, then continue:
+
+```bash
+git rebase --continue
+```
+
+### Step 7 — Push and open a pull request
+
+Push your branch to your fork:
+
+```bash
+git push origin cave17-add-new-section
+```
+
+On GitHub, open a pull request from your branch to `vsraghavhk/ajanta-interactive:main`. In the PR:
+
+- Write a clear title describing what changed.
+- In the description, briefly explain what you added or fixed and why.
+- Under **Reviewers**, add **vsraghavhk**.
+
+### Step 8 — Address review feedback
+
+If the reviewer requests changes, make them on the same branch and push again — the pull request updates automatically:
+
+```bash
+git add <files>
+git commit -m "address review: clarify description in c17-newfile"
+git push origin cave17-add-new-section
+```
+
+Once approved, the maintainer will merge the PR. The live site updates automatically via GitHub Pages within a minute or two.
 
 ---
 
