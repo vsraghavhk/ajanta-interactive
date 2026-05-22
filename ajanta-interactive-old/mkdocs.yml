@@ -1,0 +1,26 @@
+site_name: Ajanta Interactive
+site_description: Text content from the Ajanta Interactive CD-ROM by Prof. S. Swaminathan
+site_author: Prof. S. Swaminathan
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    primary: brown
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Content: content.md
+  - Glossary: glossary.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details

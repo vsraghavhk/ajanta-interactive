@@ -1,0 +1,518 @@
+# Glossary
+
+> Definitions of technical, Sanskrit, and architectural terms used in the Ajanta texts.
+
+A further metaphor describes the torso as being like the body of a lion (simha-kati). King Sanjaya depicted in the scene RESTORATION OF CHILDREN, of Vishvaantara Jaataka, is 'lion-waisted'.
+
+A very important feature in the depiction of the human form, particularly of women is the emphasis on his/her gait, and the whole figure structured round three main axes in order to conform to this tribhanga pose. It gives the body an S-shaped rhythm, a fluency of line, which, together with the appropriate gestures of the hands, conveys a wide range of expressions. It is practised by dancers even today, particularly in odissi, a classical dance form from the Eastern part of India. Painting of BODHI-SATTVA PADMA-PAANI and the DANCING GIRL WITH MUSICIANS, both from Cave 1 are two such examples.
+
+## abacus
+
+A level tablet on the capital of a column (or, simply. pillar), supporting an entablature; (entablature: that which surmounts the column and rests upon the capital).
+
+Accordingly, the eyes of the Great Being, like BODHI-SATTVA PADMA-PAANI of Cave 1, are shaped like lotus petals, his arching brows like the curve of the Indian bow, and his face the perfect ovoid (shape of the egg). The shoulders of the divinity are likened to the massive domed head of the elephant, and his arms to its tapered trunk.
+
+## airika (softening-hardlines)
+
+One of the three methods of vartana (shading), to produce depth and relief. In this technique an illusion of depth is achieved by executing tonal variation and avoiding hardlines. [See under 'SHADING TECHNIQUES'].
+
+Ajanta artists have employed basically two different methods to bring out depth and relief. One is a conventional flattened perspective called animnonnata (flat style), that is using dark colours for the subjects in the foreground against a background of lighter shades, or vice versa. The episodes from Shibi Jaataka painted in Cave 1, like the three wailing women in the scene, KING WEIGHS HIMSELF (Kbl 074) and PRINCE AND HIS CONSORT (KBL 075) are examples of this style.
+
+Ajanta paintings were done over a period of eight centuries, from the 2nd century BC to the 6th century AD.
+
+## alto-relievo
+
+High relief, figures projected by at least half their thickness from the background on which they are sculpted; (bas-relief: sculpture in which the figures do not stand far out from the base on which they are formed).
+
+## amalaka
+
+Design based on the amla (Indian gooseberry) fruit, generally a spheroid slab, with ribs around the edge.
+
+An expression of this period can be seen in Caves 9 and 10. The narration of Shyaama Jaataka in Cave 9, RAJA WITH HIS RETINUE (MJT 106) in Cave 10 and what remains of the narration of SHAD-DANTA JAATAKA of Cave 10 (Line ?) are the few survivors of time, neglect and vandalism.
+
+## ancient trade routes
+
+The main trade route connected north India, through Ujjain, Mahishmati, with Paithan (ancient Prathishthana, the capital of the early Saata-vaahana-s), with ports on the south-eastern coast, through Ter (ancient Tagara), Amaravati, etc. The other trade route was connecting Broach (ancient Bharukachchha) and Pratishthana..
+
+## anda
+
+Spherical shaped crown of a stoopa built in a chaitya; over this is mounted a harmika, a triple-umbrella (chhatraa-vali) and finally, a poorna-ghata. (anda, meaning egg, often refers to the world as having sprung from the primordial egg of Brahma.).
+
+## animnonnata (flat-style)
+
+One of the techniques in painting to produce an illusion of the third dimension: a simple shading technique using dark colours for the subjects in the foreground against a background of lighter shades, or vice versa, and different from the more sophisticated technique called nimnonnata. [See under 'SHADING TECHNIQUES'].
+
+## apsaras
+
+Celestial damsel, regarded as wives of gaandharva-s.
+
+## apse
+
+A semi-circular recess; chaitya-s, like Cave 10 of Ajanta is apsidal at the rear, and a stoopa is found at the centre of the apse.T
+
+## archaic
+
+In art, refers to the initial phase in the development of an art form. In the context of Ajanta, one may take that the earliest style may be more appropriately pre-Classical, rather than, archaic. [See under PHASES OF AJANTA ART and also PRE-CLASSICAL PERIOD].
+
+## architrave
+
+The lowest division of the entablature resting immediately on the abacus of the column).
+
+## ardha-mandapa
+
+Literally 'half-hall'. [See under 'mandapa'].
+
+## arhat
+
+Divinity of the highest rank in Buddhist hierarchy.
+
+## ashlar Masonry
+
+masonry using squared stones.
+
+## astylar
+
+Without pillars (columns).ext of Ajanta, one ma
+
+## attha-mahaa-thaanaani
+
+The eight places considered the most sacred in the Buddhist faith. These places derive their holiness because of their intimate connection with major events in the life of the Buddha. Of these four are related to important events in the life of the Buddha. These are Lumbini, where Siddhartha was born, Gaya, where He attained Enlightenment; Sarnath, where he preached the First Sermon, and Kushi-nagara, where he obtained nirvaana. The remaining four are the locations where He is believed to have performed miracles. He displayed His miraculous powers at Shraavasti by multiplying Himself a thousand-fold to baffle His critics. He ascended the Heaven of thirty-three gods and preached the Dharma to His Mother at Shaankashya. He subjugated a mad elephant at Raaja-griha. And, finally, at Vaishaali a number of monkeys offered Him honey.
+
+## baroque
+
+A period where ornamentation predominates. Generally, this phase follows the classical period and the period of Mannerism. In Ajanta, it began in the mid-6th century AD.
+
+## bas-relief
+
+Sculpture in which the figures do not stand far out from the base on which they are formed; it may be low relief or high relief depending on the depth of carving. (alto-relievo: high relief, figures projected by at least half their thickness from the background on which they are sculptured; A self-standing sculpture is called 'sculpture in the round').
+
+Between the nimnonnata and animnonnata styles the artists apparently enjoyed wide latitude in employing the methods best suited to their individual talents and their subject matter.
+
+## bindi
+
+Also known as till. The custom of women decorating their forehead with a tilak, also known as bindi, is a common sight to day. But, in Ajanta portraiture we find women sporting the tilak only infrequently. Janapada-Kalyaani (ASI 006), wife of Nanda is one of the women sporting tilak in Ajanta.
+
+## binduja (dot-and-stipple-method)
+
+One of the three methods of vartana (shading), to produce depth and relief; in this technique an illusion of depth is achieved by painting dots with variations in the concentration of dots to create the illusion of depth.
+
+## Bodh-gaya
+
+This is the holiest of holy places in Buddhism and one of 'the eight holy places' (attha-mahaa-thaanaani). Here Siddhartha received Enlightenment and became the Buddha. On the full-moon day of the month of Vaishakha (May), after taking a bath in the river Nairanjana or Nirayana (now called Lilajan) He sat under a peepal tree with determination and finally saw the Truth. Emperor Ashoka, who visited the place, called it Sambhodhi, but later it was referred to as Bodhgaya. A massive spire of the Mahabodhi temple rises above a cluster of stoopa-s and monasteries. Inside, a colossal gilded image of the Buddha sits in repose. The 'Jewel Shrine of the Walk' marks the footprints of the Buddha. To the west stands the sacred Bodhi tree under which He received Enlightenment; this is marked the Seat of Enlightenment. On the south and west of the temple are carved railings, which are among the most ancient relics in India. It is believed that the Buddha bathed in the lotus pond situated south of the temple. The ruins of many beautiful sculptures and richly decorated stoopa-s lie strewn around in the vicinity. Uruvila, situated close to Gaya, is also an important place. It is here Siddhartha practised rigid austerities, but the Truth eluded him. The Buddha visited Uruvila again after Enlightenment and performed many miracles.
+
+## Bodhi-sattva
+
+In the Buddhist mythology 'the would-be Buddha'. The Bodhi-sattva took birth as a human or a celestial being, a small bird or a mighty elephant. In each of these births, He outshone others by His supreme intelligence, the nobility of His character, His spirit and selfless service and His boundless compassion. Jaataka stories deal with these lives. [see jaataka].
+
+## body postures
+
+(See under 'sthaana-s').
+
+## bracket
+
+a support inserted at an angle to hold up the roof or the beam above a column (pillar). [See Fig. ?].
+
+## Buddhist holy places
+
+(See under 'attha-mahaa-thaanaani').Roman
+
+By sheer chance, the development of style from the beginning to its final decline can be witnessed within the physical limits of Ajanta. In this respect Ajanta has no parallel.
+
+By the 4th and 5th centuries, AD, art in India reached a stage that must be called classical. The classic style means not only perfect mastery of the subject, but turning all this skill and knowledge to the noble purpose of creating beauty: everything is idealised, realism is only known and used in order to create things of beauty and perfection. There is a dignity and nobility in classical art that allows no exaggeration, no excess, no overstatement, no dramatisation.
+
+By the middle of the 6th century, the style turned baroque, a style of over-ornamentation and exaggeration.
+
+## capital
+
+Head or top part of a column (pillar).
+
+## cave temples
+
+It was Ashoka who initiated cutting living rocks into architectural forms as places of worship. This gained momentum and in about 1200 years the whole Indian landscape was dotted with large and small rock-hewn monuments. Since these structures are not damaged by weather, all such monuments survived. In the initial stages of development of rock-cut monuments, they were simply petrified versions of the contemporary brick-and-timber or the mud-and-thatch structures. Such a construction cannot strictly be called architecture, and hence this is identified as rock-architecture or architectural sculpture. The earliest caves are those excavated by Ashoka and his grandson Dasharatha in the hills of Barabar (Jahanabad district in the state of Bihar) Nagarjuni and Sitamarhi (near Gaya, in the state of Bihar). The Sudaama cave and the Lomaas-rishi cave of Barabar hill are more advanced. Though the beginning was made in Bihar, it was in the Deccan that the rock-architecture reached its zenith. The chaitya-s and vihaara-s excavated during 200 BC to 200 AD can be found in Bhaja and Bedsa (both in the district of Pune in the state of Maharashtra), Kondane (Kolaba district in the state of Maharashtra), Pitalkhora, Caves 8, 9, 10 and 12 of Ajanta and in a number of other places. Belonging to the same period is a group of two vihaara-s and a chaitya at Guntappalli (Krishna district of Andhra Pradesh), the caves at Udayagiri and Khandagiri near Bhubaneshwar, the capital city of the state of Orissa. Slightly later a number of caves were excavated in the Junagadh hills in Gujarat, but they were generally plain. The Bagh caves (Dhar district in the state of Madhya Pradesh) are somewhat later than the Gujarat caves, and are essentially large pillared halls, with rows of monk-cells scooped out in the sidewalls. It was in the Deccan again that the later phase of cave construction started, from 450 AD, of which the remaining caves of Ajanta are the most important. The Buddhist caves at Ellora belong to two periods. The earlier caves like caves 1, 2, 3 and 5 belong to 400 AD, and the remaining to 6th-7th centuries. Though Cave 6 of Ajanta is two-storied, the multi-storied Ellora caves are remarkably original in conception. The 7th century caves Anantha-sayana-gudi at Undavalli (Guntur district in the state of Andhra Pradesh) belong to this style. It was by about 5th century AD, the Hindus and the Jains adopted the rock-cut mode of architecture for their temples. The earliest cave at Udayagiri (Vidisha district in the state of Madhya Pradesh) was built by Chandragupta II. In the South, a very large number of rock-cut temples were constructed by the Chalukya-s of Vatapi (6-7th century), the Rashtrakuta-s (7-9th century), the Pallava-s of Kanchi (6-9th century) and the Pandya-s of Madurai (8-9th century). rissa. Slightly later a n
+
+## ceiling paintings
+
+The ceilings in Ajanta are painted with secular motifs. The motifs were geometric designs, flower decorations, animals and birds and humorous scenes.. In the decoration of the ceiling the Ajanta artist was at his creative best.
+
+Certain passages in the Lankaavatara-sootra imply that an effect of illusion of reality was to be achieved through the use of relief modelling. "As a picture shows highness and lowness, whereas really there is nothing of the sort in it ... it is like the painter's canvas on which there is no depression or elevation as imagined by the ignorant."
+
+## chaaya-tapa
+
+Literally 'shade and shine; a technique that creates a kind of soft light and shade effect which produces a soft glow on the outline of the head. The famous painting of BODHI-SATTVA PADMA-PAANI (kbl 069) in Cave 1 is an example of use of this technique.
+
+## chaitya
+
+The caves of Ajanta are divided into chaitya-s (temples) and vihaara-s (monasteries). The chaitya bears some similarity to the early Christian basilica, having an arched roof and a long vaulted nave (central portion) with pillared aisles on either side, terminating in an apse (semi-circle). In the apsidal end is placed the chaitya or stoopa, which is in fact a sophisticated form of the grave mound of pre-Buddhist times. A prominent arched window to provide light to the interior usually surmounts the facade, in the form of a screen with a small door. The shape of this arched window gradually evolved from a simple semi-circular opening, as in the earliest Chaitya-cave 10, to the elaborate sun-windows of the Chaitya-caves 9, 19 and 26 of a later period. Inside Cave 10, traces of old wooden ceilings are still to be found, which the stone architecture of a later period faithfully imitated. Later during the Mahaayana phase it gave way to upright, ornamented pillars in the Mahaayana group of caves.The stoopa-dome also changed from a plain hemisphere to a cylindrical form with elaborate carving and sculptures. face of the Hin
+
+## Chalukya dynasty
+
+In the 6th century the Vaakaataka-s succumbed to the mighty power of the Chalukya-s. It is probable that the decorations at Cave 1 at Ajanta were done during the reign of Pulakesin II, who died in 642 AD.
+
+## chhatra-vali
+
+Ceremonial umbrella, normally three in number set on a haarmika and an anda crowning a stoopa.ya instructs
+
+## classical period
+
+A period of artistic maturity, which allows no excesses and over-dramatisation. In Ajanta 4th-5th centuries AD is considered the classical period. This follows archaic or pre-classical phase and is followed by mannerism and baroque. Compositions like Simhala Avadaana of Cave 17 belong to the classical style. (See under 'PHASES OF AJANTA ART - Classical Period)
+
+## corbel
+
+Projection from the face of the wall supporting a weight.
+
+## dance and painting
+
+A relation between the two is a unique feature of the Indian art tradition. For example, in Vishnu-dharmottara, a 11th century AD treatise, is found a discourse in which Maarkhandeya instructs King Vajra that without the knowledge of the science of dancing, the rules of painting can scarcely be understood. In another passage, the observation of nature and of the rules of dancing are indicated as the ultimate resource for the painter.
+
+## dressed in nakedness
+
+One intriguing factor of Ajanta composition is that many of the Ajanta heroines are scantly dressed or they are painted naked. Two of the examples of this feature are the scene QUEEN CAPTIVATES MAHAA-JANAKA (Kbl L) of Cave 1 and the painting of the DYING PRINCESS (ASI 003) of Cave 16.
+
+During this period there have been many changes - changes in taste, manner, and style. The history of these changes in style and manner is, in fact, the history of art.
+
+## Ellora
+
+Situated close to Ajanta, this place is extra-ordinary, for it is the meeting ground of the three principal Indian religions. We find here the Hindu, the Jain and the Buddhist caves. Of these the Buddhist ones are the earliest, dating from the 4th century AD to the 9th century. The most breathtaking monument here is the great monolith, Kailasa-naatha temple, a Hindu temple. The Jain cave temples have a quiet dignity of their own.
+
+## entablature
+
+That which surmounts the column and rests upon the capital..
+
+Finally let us discuss a technical feature. That the Ajanta artist employed both true perspective and reverse perspective was mentioned before. A mention to this effect was made while explaining the pavilion in reverse perspective in the Mahaa-janaka panel wherein a dancer was attempting to charm the king. We see that in this panel is depicted a sequence of scenes in three pavilions and that they are not in true perspective. The following may be the reason.
+
+For reasons unknown, the Ajanta artist never painted religious themes on the ceilings, where the colour scheme, delineation and repetitious themes were rendered with equal craftsmanship. Spontaneity of movement is evident in all these.
+
+## fore-shortening
+
+[See under 'kshaya-vriddhi'].w Roman
+
+## fresco buono
+
+A technique of wall painting where the application of colours is to a layer of moist lime plaster. The European mural paintings are of this type. Indian and all Asian murals were painted on an almost dry wall, called fresco secco
+
+## fresco secco
+
+A technique of mural painting where painting is done on a dry wall. Indian and Asian wall paintings are of this type, whereas in Europe fresco buono is followed where the painting is done on a moist lime plaster.
+
+## frieze
+
+A decorated band along the top of a room wall; horizontal band used in sculpture and architecture, often filled with sculptured relievo work in ribbon shape.
+
+From the artistic point of view, the paintings on the ceilings show power of imagination, perhaps even excelling the wall-murals. In these paintings, the Ajanta artist might have attempted to offset the seriousness of the themes on the walls.
+
+## gana
+
+Demi-god acting as attendant; dwarf follower of Lord Shiva.
+
+## garbha-griha
+
+sanctum of a temple.
+
+In agreement with an old belief, the thigh and leg-line should be analogous to the trunk of a banana-tree drawn in tapering lines, the feet to the leaves (pada-pallava), neither of them revealing the bone-structure. We witness the perfect feminine form supported by tapering legs, at times so thin as to raise a doubt whether they could sustain the body-weight in many scenes in Ajanta. Some such scenes are the QUEEN IN A PALACE SCENE of Cave 1 and Maaya Devi in the scene QUEEN MAHAA-MAAYA MUSING in the narration of the Nativity of the Buddha in Cave 2. The feet of the LADY AT HER TOILET of Cave 17 truly resemble leaves. Feet like lotus flowers (charana-kamala) and gomukha khanda (torso-resembling-cow's-head) are two other metaphors met with frequently in both art and literature.
+
+In between the left and central panels, apparently just outside the pillared partition, four beggars are seen begging for alms. One of them has an umbrella over his head. A clump of banana trees, beyond the brick wall, forms the background.
+
+In terms of composition, this panel is one of the masterpieces of Ajanta - a proper synthesis of the details and the characters are subdued enough to highlight the central theme - the royal lustration. The various skin-colours and the red of the columns of the pavilion are harmoniously blended against the dull olive green of areca-nut palm leaves, producing a delightful colour-pattern. The lavish furnishing and royal splendour of the palace is striking.
+
+In the central pavilion is shown the PREPARATION FOR THE CEREMONY (ASI 019). A lady with a tray displays movement so free and poise so graceful that its equal is hard to find. This lady, as well as the other one in the scene, is dressed in garments that are almost transparent or just nude. Also found in this central panel are two more persons: an old servant leaning on his staff and another carrying a pitcher on his head. The dark complexion of the lady with a tray is beautifully balanced by the red column towards her left and with the fair complexion of the other woman.
+
+In the development of any art form, the initial stage is generally called archaic or in simple terms, primitive. This phase is characterised by rigid and lifeless portrayals. The artists are yet to understand true representation of movement.
+
+In the left panel we find Mahaa-janaka, now a venerated ascetic, exuding compassion, seated on a low stool and the ROYAL HOUSEHOLD PAYS HOMAGE (ASI 017). A lady of distinction, perhaps his queen, kneels down before him while a few other distinguished ladies stand nearby.
+
+Indeed it is interesting asking what a particular painting represents. For instance, in sculpture there have been images of the Buddha or the goddess Parvati depicted century after century; and once you know that an image represents the Buddha or the goddess Parvati, you have learned or understood very little. They are made so vastly different in every century, that you will be missing all the beauty and fascination if you are only interested in the theme, in the subject matter of a work of art.
+
+It is fascinating to follow the change in taste and, thus, the development of style. For each generation expresses in works of art its own concept of beauty, and rejects the ideals of the past.
+
+It seems that the earliest existing examples of Ajanta painting, of the 2nd-1st century BC in the Caves 9 and 10 cannot be classified as archaic in the strictest sense of the word. They have already entered the transitional period that was to carry them on to the classical phase. This is evident from the subtle, beautifully drawn sketches that effectively portray the poses and gestures of the human figure and the grandeur of trees and flowers.
+
+It was mentioned before that the traditional rendering of the parts of the body should resemble, and be based on, similes drawn from plant or animal-life. For example, while rendering the eyes, depending on the emotions to be conveyed, the model became a stylised design of a flower, fish or bird; but an added refinement of lines and the finish of colours made them intrinsically human and intensely expressive and distinguished. Such symbolism greatly enriched all art forms, both religious and secular.
+
+It was mentioned that some do not agree with the view that these scenes are from Mahaa-janaka Jaatak. They point out that the master artists of Ajanta were very particular about the physiognomic features of the characters portrayed, and portraits of the same character resemble one another with photographic accuracy. But the woman painted in this panel widely differs from the queen Shivaali painted in the panels described earlier.
+
+It was with the discovery of the use of lapis lazuli, a blue coloured mineral, during 4th-5th centuries that the Ajanta artist added another dimension to his paintings. Its cool transparent blue was an effective medium for creating visual depth, by contrasting it with the warmth of the red and brown tones. The neutral tints of the chocolate-brown background of the earlier Hinaayana paintings, like the RAJA WITH HIS RETINUE of Cave 10 (Mjt 106), were now frequently replaced by various shades of blue.
+
+## jaataka
+
+Buddhist mythological story of the previous lives of the Master. There are 547 jaataka-s. In these stories 'the would-be Buddha', in His careers as the Bodhi-sattva-s, outshone others by His supreme intelligence, the nobility of His character, His spirit and selfless service and His boundless compassion - no matter whether He was born as a human or a celestial being, a small bird or a mighty elephant. Each jaataka story exemplifies the efforts that the Bodhi-sattva made to develop one of the ten virtues (paraamita). Thus, in Shad-danta Jaataka, Bodhi-sattva is born as an elephant-king called Shad-danta to demonstrate boundless generosity, in Vishvaantara Jaataka He is born as Prince Vishvaantara to personify charity, and exhibits wisdom in Vidhura-pandita Jaataka. Episodes from a number of jaataka-s are painted on the walls of Ajanta. Some of the stories are similar to those found in Hindu mythology: the Shyaama Jaataka (Cave 9) bears a close resemblance to the story of Shravan Kumar in the Ramayana. Some of the important ones painted in Ajanta caves are listed below, with the caves in which these can be found given in brackets. Champeyya Jaataka, the story of a serpent king (1); Hasti Jaataka, the story of the benevolent elephant (16, 17); Mahaa-hamsa Jaataka, the story of the golden goose (2, 17); Mahaa-kapi Jaataka, the story of the monkey king (17); Mahaa-ummagga Jaataka, the story of the supernatural child, Maho-sadha (1, 16); Mahisha Jaataka, the story of the benevolent buffalo and the mischievous monkey (17); Maatri-poshaka Jaataka, the story of the elephant who had blind parents (17); Matsya Jaataka, the story of the fish which saved its kin from certain death (17);
+
+## jamb
+
+The sidepiece or post of a door.
+
+## Kaama-sootra
+
+A well-known work on Indian erotics. In a chapter on painting is an enumeration of the 'six limbs' or essentials aspects of painting. They are roopa-bheda (an appropriate representation of forms or appearances), pramaana (appropriate structure and proportion, bhaava (the suggestion of action and feeling, as well as laavanya (the infusion of the quality of grace).The fifth canon enjoins sadrishya (similitude), which may be taken to mean an appropriate resemblance to natural objects rather than realistic imitation in a literal sense. The last branch of painting mentions varnika-bhanga (the proper manner of using the brush and colour).
+
+## Kapila-vastu
+
+Though not one among the 'eight important places' (attha-mahaa-thaanaani) in Buddhism, the place is important in the history of Buddhism as Suddhodana, father of Gautama, the Buddha, was the king of Kapila-vastu. This is identified with either Piprahwa, in the district of Basti, in the sate of Uttar Pradesh or with Tilaurakot, in the district of Taulihawa, in Nepal.
+
+## keyura
+
+Bracelet worn on the upper-arm
+
+## kinnara
+
+Mythical being half- human and half-bird
+
+## kshaya-vriddhi (loss and gain)
+
+Called foreshortening in English. In this technique relief and plasticity are realised in terms of the distances, showing farther objects smaller. The ceiling paintings CHARGING BULL and the ELEPHANT of Cave 1 are examples of use of this technique.
+
+## Kushi-nagara
+
+One of the attha-mahaa-thaanaani. Now known as Kasia, in the district of Gorakhpur, in the State of Utter Pradesh. Here the Buddha took pari-nirvaana (Extinction) on the banks of the river Hiranyavati and was cremated. To commemorate these two events, two monasteries, Mahaa-pari-nirvaana Vihaara and Makuta-bandhana Vihaara have been established here, as known from the seals recovered from here: one showing the coffin of the Buddha between two shaala trees and the other a funeral pyre. The most important monuments to day are the Nirvaana Chaithya and Nirvana Shrine, both on the same platform. These are dated to the early 5th century AD Gupta period, but have been subsequently built over.The shrine houses a colossal Buddha lying in state in sandstone. There are a number of stoopa-s, monasteries and other buildings around. A little away from the main shrine is a mound, locally known as Rambhar stoopa, believed to be the place where the Buddha was cremated.
+
+## lapis lazuli
+
+Literally a blue stone. A new colouring technique in the use of lapis lazuli, a cool transparent blue, came into use in Ajanta only in the 4th-5th centuries AD. It is employed during the Mahaayana period with considerable effect in a number of paintings to produce a sense of distance and depth, and thereby to enhance the feeling of movement and animation.
+
+## Lumbini
+
+The place of birth of the Buddha and one of the atta-mahaa-thaanaani. This has been identified with Rummindei in the district of Bhairawa in Nepal. Emperor Ashoka has visited the place and erected a pillar on the spot. Antiquarian remains from the place establish continuous religious activities till the 10th century.
+
+## mahaa-raaja-leela
+
+A royal pose of sitting at ease, for example, the pose of the NAAGA COUPLE (Nou 212). NAAGA COUPLE (N
+
+## makara
+
+A motif of a crocodile with a floriated tail.
+
+## mandapa
+
+A pillared and canopied hall; ardha-mandapa (half-hall) is a small hall connecting the shrine with mandapa, the larger hall, and mukha-mandapa is the narrow hall connecting the ardha-mandapa or the mandapa with the shrine.
+
+## mannerism
+
+A period in the development of an art form, when some stylistic changes are made from the classical ideals. End of 5th century is considered to be the mannerist period in Ajanta. During this period Ajanta produced some of the masterpieces like the BODHI-SATTAVA PADMA-PAANI (Kbl 069). The composition of Vidhura-pandita Jaataka is an example of this style.
+
+## medallion
+
+A bas-relief of a round.
+
+Mriga Jaataka, the story of the golden deer (17); Nigro-dhamiga Jaataka, the story of the sacred deer to save that of a doe (17); Sarabha Jaataka, the story of the merciful stag (17); Shad-danta Jaataka, the story of the six-tusked elephant (10, 17); Shankha-paala Jaataka, the story of the serpent (1); Shibi Jaataka, the story of the pigeon (1); the story of the king who donated his eyes (17); Shyaama Jaataka, the story of the devoted son whose parents were blind(10, 17); Suta-soma Jaataka, the story of the pious King of Indra-prastha trying to persuade Saudasa, the King of Varanasi, to give up cannibalism (16, 17); Vidhura-pandita Jaataka, the story of the wise minister (2); Vishvaantara Jaataka, the story of the prince devoted to alms-giving (17).
+
+## mudra
+
+Certain position of fingers or hand practised in devotion, religious worship and dance; for example: abhaya mudra (pose of assurance), varada mudra (boon-giving pose), bhoomi sparsha mudra (earth-touching pose), dharma chakra pravartana mudra (setting-the-Wheel-of-Law-into-motion pose or preaching pose), dhyaana mudra (meditating pose) and anjali mudra (praying pose).
+
+## multiple vision
+
+A technique of composing scenes. In this a number of scenes seen from different angles are painted in a single composition. [See under perspective]
+
+## nave
+
+The middle or main body of the basilica (a chaitya, in the Ajanta context) rising above the aisles
+
+## nimnonnata
+
+A 'high relief' method of shading to bring out depth and relief; also called vartana [see also animnonnata, and vartana].
+
+## nirvaana
+
+Literally 'Extinction'. Freedom from the cycle of births and deaths. [See also pari-nirvaana].
+
+On the other hand, ujjotana refers to the method of specifically adding lighter and brighter pigments to produce an optical effect. The ujjotana effect can be seen in the various scenes of Vidhurapandita Jaataka of Cave 2.
+
+On the rear wall of the main hall there is a panel showing the facade of three colonnaded pavilions. Many experts feel that these scenes are from Mahaa-janaka Jaataka, depicting lustration and renunciation of Mahaa-janaka. The description below is supported by a sketch LUSTRATION AND RENUNCIATION (Line 18) showing the three pavilions and, their details in three colour pictures, PREPARATION FOR THE CEREMONY (ASI 019), CEREMONIAL BATH (ASI 020) and ROYAL HOUSEHOLD PAYS HOMAGE (ASI 17).
+
+## painting sequence
+
+The Ajanta artist had followed certain sequence in painting. A preliminary sketch in haematite (an iron ore) was drawn on the surface while it was still slightly wet followed by an under-painting in grey or white monochrome, like the medieval Italian practice of terra verde. On this surface an outline in cinnabar red was filled in with various colours, proceeding from under-painting as the base to the appropriate colours of the subject. Finally, when dry, the semi-fresco was finished off with a dark outline for final definition and a burnishing process to give lustre to the surface.
+
+Painting this scene in true perspective would have posed some problems. If one were to stand in front of the right-most pavilion, the scene would look what is shown on the left of the line sketch MULTIPLE VISION (Line ?). Then it would not be possible to draw the different people to portray the theme. For example, no details of the persons in the left pavilion can be shown. To solve this problem, the Ajanta artist has adopted the method the present day movie makers use called 'multiple-vision'. That is, the Ajanta artist has taken three different 'shots' and superimposed them on one another, as shown on the right of MULTIPLE VISION (LINE ?). Actually, "the artist has not copied any existing pavilion, but has imagined in his mind's eye, and has wished to represent it in all its details".
+
+## palmate
+
+Design based on palm-leaf .
+
+## pari-nirvaana
+
+Literally 'Final-extinction'; refers to the death of the Buddha.
+
+## patraja
+
+'Shading-like-the-lines-of-leaf', a vartana (shading) style. The ceiling paintings Charging Bull(ASI 030) and the Elephant (ASI 028) of Cave 1 are examples of use of this technique of shading.
+
+Perhaps the contemporary taste was far more liberal or the artist could take liberties with social and ethical conventions while portraying women. But the intriguing question that cannot easily be answered is how these found a place at all in a monastery for monks of a strict religious order, which shunned the pleasures of life. Perhaps we are wrong in our understanding of the Buddhist religion of those times.
+
+## perspective
+
+One of the techniques used by the Indian painters from the early times to produce an illusion of the third dimension. Ajanta artists have used the normal (or true) perspective and also the reverse perspective. A number of paintings at Ajanta can be cited as examples in the use of these techniques. The GATE OF THE PALACE OF BRAHA-MADATTA (Mjt 097) of Cave 2 is an example for normal or true perspective. The pavilion behind the DANCING GIRL WITH MUSICIANS (Kbl 091), a scene from Mahaa-janaka Jaataka in Cave 1 is composed in the reverse perspective. The three pavilions in which the LUSTRATION AND RENUNCIATION take place in Cave 1 are painted as if they are viewed from different angles, a technique called multiple vision.
+
+PHASES OF AJANTA ART - Classical Period
+
+## pigments used in Ajanta paintings
+
+The artists of Ajanta used a wide variety of pigments: red ochre (dhaturaga), vivid red (kumkuma), yellow ochre (haritala), indigo blue, lamp black (kajjala), chalk white (khadi mati), terra verte (geru mati), green (jangal) and blue (lapis lazuli). All these, with the exception of black, are mineral in origin. Lapis lazuli, used for blue, alone was imported, as it was not found in the neighbourhood. All other pigments were locally available as residual products of the volcanic rock. Mixed colours were used on rare occasions. Not all colours were used everywhere, nor with the same consistency. The theme and the local atmosphere determined these. Classical Indian painting does not aim at contrasts of a medley of colours, but attempts at saturating the surface with highly charged and dense colours.
+
+## pilaster
+
+Pillar partly built into, partly projecting from a wall.
+
+## poorna-ghata
+
+Symbolic religious vessel kept on the top of a stoopa touching the roof of a chaitya [See Fig. 1].
+
+## pralamba-paada
+
+Posture of sitting with the legs hanging.
+
+## pramaana
+
+An anga (limb) of painting and refers to 'appropriate structure and proportion'. Thus, standing images of the Buddha and major divinities like the Bodhi-sattva-s were to be drawn in a ratio of nine thaalam-s (a unit of length in which the length of the face taken as the unit) for the total height of the image.
+
+## pre-classical
+
+In art, this refers to that period which follows the initial phase in the development of an art form, called the archaic period. In the context of Ajanta this is the earliest phase. [See under 'archaic' and also 'PHASES OF AJANTA ART and PRE-CLASSICAL PERIOD'].u
+
+## Raaja-griha
+
+The capital of Magadha, Raaja-griha was one of the sixteen great cities of India (Mahaajana-paada-s) during the time of the Buddha. This place is now known as Rajghir, 90 km from Patna, the capital city of the state of Bihar. The Magadha ruler Bimbi-saara was an ardent disciple of the Holy One. But his son and the usurper of his kingdom Ajaata-shatru was not well disposed towards Him initially, but became His follower later. Raaja-griha is one of the eight holy places (attha-mahaa-thaanaani). When the Buddha came here after His Enlightenment, King Bimbi-saara gifted him a venu vana (bamboo-grove). Here He stayed for some time. The inclusion of this place among the eight important places is because He performed the miracle of subjugating a mad elephant, called Nalagiri, let loose on Him by King Ajaata-shatru at the instance of Deva-datta, a jealous cousin of the Buddha. The incident forms the theme of a painting in Cave 17 and is titled, 'The Miracle at Raaja-griha'. The First Buddhist Council was held in the Sapta-parani cave on the Vaibhava Hill after His pari-nirvaana. One of the persons converted to his faith was Shaari-putta, during His stay here.
+
+## relief and depth
+
+A variety of techniques were available to create an illusion of the third dimension. Perspective, foreshortening (kshayaa-vriddhi), shading (vartana) and adding highlights (ujjotana) are the most important ones. All these techniques are employed in Ajanta.
+
+RENDERING PARTS OF THE BODY - Symbolism based on Animals and Plants
+
+## rock-cut architecture
+
+[See under 'cave temples']imes Ne
+
+## rosette
+
+Ornamental design based on the rose
+
+## Saata-vaahana-s
+
+The rulers who ruled the area in which Ajanta lay. It was during the rule of this dynasty that Caves 9 and 10 were excavated. Though the kings belonged to the Hindu faith they were tolerant of other faiths.
+
+## sadrishya
+
+Refers to similitude and is an anga (limb) of painting. Indian art tradition prescribes that the features or parts of the anatomy of the divine being were to be presented in a metaphorical rather than a naturalistic way. That is, the parts of the body were to be represented in the shape of forms in the animal and vegetable worlds, which had come to be regarded as more beautiful in an absolute sense than the accidental and imperfect features to be found in human models. Accordingly, the eyes of the great being are like lotus petals, his arching brows like the curve of the Indian bow, and his face the perfect ovoid (shape of the egg). The shoulders of the divinity are likened to the massive domed head of the elephant, and his arms to its tapered trunk. A further metaphor describes the torso as like the body of a lion. [See RENDERING PARTS OF THE BODY - Symbolism based on Animals and Plants].
+
+## Samaraangana-sootra-dhara
+
+a famous treatise on architecture written in the 11th century by the Paramaara king, Bhoja. In this 'Eight Limbs' of painting have been enumerated. These are: vartika (crayon), bhoomi-bandhana (preparation of the surface), rekha-karma (outline work), lakshana (the characteristic features of types of faces), varna-karma (colouring) vartana-karma (plastic modelling or relief by shading), lekha-karma (correction) and dvika-karma (final outline). This as well as other treatises like Kaama-sootra and Vishnu-dharmottara contain a collection of technical recipes as well as canons of proportion and other injunctions for the fashioning of icons. For example, the 'limb' called pramaana refers to 'appropriate structure and proportion'. Thus, standing images of the Buddha and major divinities like the Bodhi-sattvas were to be drawn in a ratio of nine thaalam-s (faces) for the total height of the image. [See also 'sadrishya']{
+
+## Sarnath
+
+Also known as Isi-pattana or Rishi-pattana. This is close to Varanasi. It is in the Deer Park (mrigadava) of Sarnath that He delivered the first discourse. The persons who attended this were the 'five monks' (pancha-vargeeya-s) His one time associates during His initial stages in the quest for the Truth. This discourse is known as the dharma chakra pravartana (setting-the-wheel-of-Law-into-motion). Because of this the place is often referred to as Dharma-chakra Vihaara. Here Emperor Ashoka erected the celebrated Ashoka pillar, only the lower portion of which exists today at the site. The capital of the pillar, the famous 'four lions' that has been adopted by India as its national symbol is kept in the museum. Among a very large number of stoopa-s, its Dhamekh stoopa is the most celebrated. Antiquities from 3rd century BC may be seen in the museum. This place is one among the attha-mahaa-thaanaani (eight holy places). *
+
+Sensuous lips are ripe and full like the bimba-fruit (Momorda monadelpha), with the lower lip protruding, her modulus hands expose fingers likened to lotus-petals. Fingers nimble and sensitive, as if indicative of her thoughts, match perfectly with the rest of the movements and blend in the direction and glance of her eyes.
+
+## shaala-bhanjika
+
+Tree spirit, wood nymph, dryad.
+
+## Shasnkaashya
+
+Known to-day as Sankissa or Sankasia, in the district of Farukkhabad in the state of Utter Pradesh, this is the place from which the Buddha ascended 'the heaven of the thirty-three gods' in order to meet his mother and to deliver the message of the Law. According to Buddhist legends, the Lord came down by a triple ladder, accompanied by Shakra (Indra) and Brahma, a favourite theme in Buddhist art. This scene is depicted in Cave 17 as BUDDHA PREACHES TO THE CONGREGATION (Nou 197). Emperor Ashoka erected here an Ashokan column with an elephant capital. Unfortunately, but for the extant remains of an earthen rampart and a few scattered mounds, there is nothing to show for its proud history. This place is one of the attha-mahaa-thaanaani (eight holy places).
+
+## Shraavasti
+
+This was the capital of the ancient kingdom of Koshala. This place is identified with the present day villages Saheth and Maheth, the former in the district of Gonda and the later in the district of Bahraich, both in the state of Utter Pradesh. The place is important for, among other things, the Buddha performed a great miracle to confound the sceptics, which included King Prasenajit of Koshala. He sat on a lotus of a thousand petals and multiplied himself going upto the highest heaven. This miracle is depicted in Ajanta in Caves 2 and 6. The second reason for its importance is the donation of a splendid Jetavana Vihaara by a merchant Anaatha-pindika. And, lastly, here the Master converted a notorious robber, Anguli-maala. It is in the Jetavana Vihaara that the Buddha spent the largest number of varsha-s, the traditional retreat for four monsoon months, and delivered many of His important sermons. The irregular enclosure wall is all that remains of this vihaara. This encloses a number of stoopa-s, monasteries and temples, most of which belong to a later date. Emperor Ashoka visited the place.
+
+Simhala Avadana in Cave 17, DYING PRINCESS (ASI 003) of Cave 16, DESCENT OF INDRA (KBL 164) of Cave 17 and VOTARIES WITH OFFERINGS (Kbl 126), certainly represent the classical peak of Ajanta painting, breathing peace, harmony, and balance. Agitation, overcrowding, too much movement and passion are all aliens to the classical art of this period.
+
+Some of the animals, like the ELEPHANT (ASI 028) and the CHARGING BULL, (ASI 030) painted on the ceiling of Cave 1, are examples for the patraja method of shading. The contours on the bare body of the cherubs flying effortlessly on the four corners of the SQUARES AND CIRCLES - 3 (ASI 048) in Cave 2 has been brought out by the binduja method. The airika technique can be seen in a host of paintings in Ajanta, like the scenes from Chempayya Jaataka of Cave 1 and the DESCENT OF INDRA (KBL 164) in Cave 17.
+
+Sometimes simplicity is emphasised; at other times profuse and lavish ornamentation is in fashion. During one period painters prefer studied dignity and what they call 'good taste'; during others they like rich decoration so much that every inch of a given wall is filled with endless and delicate ornamentation. This is style - style that is different in every age and always changes.
+
+## spandrel (or spandril)
+
+corner space between a square with a circle drawn inside it.
+
+## sthaana-s
+
+Body postures or body-poses. By the beginning of the later period, namely, the 4th century, AD, systemising and adopting a whole range of postures was complete. The postures or poses were identified, and distinct terms to denote various degrees of bending and torsion of the body were used to cover the entire range. It is possible that they were greatly influenced by the contemporary dance traditions that by that time had reached a very high level of sophistication. Thus, the postures covering the range from the rijva-gata (frontal) to paarshva-gata (strict profile) are, anriju (back view), sachikrita-sharira (a bent position in profile), ardha-vilochana (the face in full profile but the body in three-quarter profile), paraa-vritta (head and one shoulder turned backwards), prishtha-gata (back view with upper half of the body partly visible in profile), pari-vritta (the body sharply turned back from the waist upwards) and samanata (back view of a squatting position with bent body). Most of the poses are found in Ajanta. [See also DANCE AND PAINTING].
+
+## stoopa
+
+Buddhist funeral mound, which gradually developed into a dome-like structure, containing the ashes or relics of holy men; replica of this was made in chaitya-s.
+
+The affected, grossly exaggerated attitudes of the characters who partake in the Mahaa-janaka Jaataka (Cave 1), for example, one of its scene QUEEN CAPTIVATES MAHAA-JANAKA, and in certain scenes of Vidhurapandita Jaataka (Cave 2) are examples of this style.
+
+The broad vision is progressively dissected into compartments so that the narrative is painted, not in an idyllic landscape, but in a maze of pillars in royal pavilions, palace windows, porches, balconies, city walls, shops and monasteries.
+
+The ceilings are filled with geometric designs, flower decorations, animals and birds and humorous scenes.
+
+The chaaya-tapa technique creates a kind of soft chiaroscuro effect, which makes the sacred countenances of the Buddha and Bodhi-sattva-s radiate with a mysterious glow. The famous painting of BODHI-SATTVA PADMAPANI (KBL 069) in cave 1 is an example of the use of this technique.
+
+The emphasis, perhaps, is mainly on the neck, the bust, the waist and the hips. Particularly the pitcher-like breasts, so full of warmth and shape, stand in an incredible contrast to her slim waist, as in MAID TRIES TO REVIVE THE PRINCESS in Cave 1. This way of representation ignores the anatomy of muscles and has been termed `artistic anatomy' - a phrase coined by Abanindranath Tagore.
+
+The eye-slits are stretched out of all proportion to the face, men look effeminate and women exaggeratedly feminine, with bulging curves and rounded breasts. Both men and women wear excessive ornament.
+
+The more elaborate method is called nimnonnata (high-relief-style). In this, relief and depth were expressed by a judicious choice of tones and colours, known as vartana (shading) and ujjotana (adding-highlights).
+
+The pavilion on the extreme right depicts the scene of the king being given a CEREMONIAL BATH (ASI 020). The king is shown squatting on a throne while two servants are pouring water over him from fluted metal pitchers. The wet curly hair of the king is seen falling on his shoulders. An odd assortment of persons, including a dwarf, is in attendance in this ceremonial bath, including three women holding trays. The three women attendants are painted in different colours and are extremely graceful in their act of aiding Mahaa-janaka with his royal dress and ornaments.
+
+The relationship between painting and dance, and between dance and sculpture is a remarkable Indian tradition not found elsewhere in the history of world art.
+
+The rough surface of the naked stone walls was first covered with a layer of potter's clay taken from the slimy beds of pools and mixed with molasses, gum of a tree called Indian bdellium (commiphora mukul, pronounced as "dellium") and rice husks, with perhaps animal glue as a binding medium. On this a thin layer of lime plaster was applied as priming. The chapters dealing with painting in Vishnu-dharmottara, probably compiled during the 7th century AD, but containing information from earlier times, give details of the ingredients of clay plaster which show that it corresponded roughly with the material used at Ajanta. The prescription according to this is as follows: "A buffalo-skin was boiled in water until it became soft. Sticks were then made of the paste and dried in the sunshine. It is stated that if colour is mixed with this hard plaster, called vajra-lepa, it makes it fast, and if white mud is mixed with it, it serves as a perfect medium for coating the walls. Vajra-lepa coating was usually done in three layers over a plaster which consisted of powdered brick, burnt conches and sand, mixed with a liquid preparation of molasses and drops of a decoction of mudga (Phaseolus munga). To this a quantity of mashed ripe bananas or tree resins and the pulp of bilva fruit (Aegle marmelos) was also added. After the mixture had dried it was again ground down and mixed with molasses and water until it became soft. The wall surface was washed down with water until it was thoroughly clean, and then the plaster was applied with a spoon. This was the two-fold process by which the wall was prepared for painting."
+
+The second aspect is that we find that most of the heroines are 'dressed in nakedness'. Without descending to vulgarity and retaining their essential dignity, the Ajanta damsels exude a rare charm and innocence. We have just seen that the two beautiful women in this panel are either without any dress or wear transparent dresses. In an earlier panel, QUEEN CAPTIVATES MAHAA-JANAKA (KBL 090L), the queen 'has either nothing on, or else her dress is so diaphanous as not to leave her charms concealed', whereas all the maids were fully clothed. But in the next scene when the king informs her of his abdication, she is 'decently' dressed, as the occasion demanded it. The DYING PRINCESS (ASI 003) in Cave 16 is a nude, though, again, the artist has carefully arranged dresses for all the palace-maids.
+
+The three kinds of vartana (shading) techniques are mentioned in the Vishnu-dharmottara. They are patraja (shading-like-the-lines-of-a-leaf), binduja (dot-and-stipple-method), and airika (softening-hard-lines).
+
+The use of shading to produce effects of relief was apparently part of the Indian practice from very early times.
+
+The word `classic' is advisedly used with reference to the Ajanta murals because they occupy the same position in relation to all later developments in the Buddhist art of Asia, as do the marbles of the Parthenon to the history of Western art. The styles of Buddhist painting in Tibet and Nepal, Central Asia, China, and ultimately Japan all have their beginnings in the classical mode represented by this series of murals.
+
+There are paintings from the earliest as well as the latest periods of Ajanta art which depict dance scenes. The dancers form a part of the entourage in the pre-Christian painting, RAJA WITH THE RETINUE of Cave 10. The DANCER IN THE NAAGA COURT of Cave 1 and the DANCING GIRL WITH MUSICIANS a scene from Mahaa-janaka Jaataka, painted on the walls of Cave 1 are exquisite dancescenes. The vibrant grace of pose and gesture of these dancers invests them with a swaying, flower-like rhythm and movement.
+
+These drawings have taken the texture of a carpet, brilliantly woven, immediately captivating the eyes and filling the senses. They do not throw a challenge to the intellect but cover the void above the walls with idyllic coloured designs.
+
+This kinship between painting and dance as also between painting and sculpture that we find in India is something altogether unique in the history of worldart.
+
+## trade routes, ancient
+
+(See under 'ancient trade routes')
+
+## tribhanga
+
+A body posture, where the whole figure is structured round three main axes giving it an S-shaped rhythm. In Ajanta this is the most popular pose particularly for depicting women in relaxed mood. The BODHI-SATTVA PADMA-PAANI (Kbl 069) and the DANCING GIRL WITH MUSICIANS (kbl 091), both from Cave 1, are a few examples. It is practised by dancers even today, particularly in odissi, a classical dance form from the eastern part of India. On the other hand abhanga is a standing pose with a slight flexion, a pose one commonly found in sculpture.
+
+## triforium
+
+A gallery, storey or arcade over an aisle.
+
+## ujjotana (adding-highlights)
+
+A technique for producing depth and relief, an approach that is different from vartana. In this method lighter and brighter pigments are added specifically to produce an optic effect. This effect can be seen in the WOMAN HOLDING A LOTUS (Mjt 034) in Cave 1.
+
+## Vaakaataka-s
+
+The Ajanta the cave-inscriptions attest to the liberality of the ministers of the Vaakaataka rulers. The Vaakaataka-s were related to the Imperial Gupta-s through matrimony.
+
+## Vaishali
+
+Identified with present-day Basarh in the district of Muzaffarpur in the state of Bihar, it is here that the Buddha was offered a bowl of honey by monkeys. Because of this, this place is one among the attha-mahaa-thaanaani (eight holy places). Again it is here that the Buddha announced his ensuing pari-nirvaana. The Lichchhavi-s erected a stoopa here on their share of the relics of the Master. This, along with the stoopa built by Ashoka, is in ruin. The famous courtesan, Amra-paali gifted Him a mango-grove here. Also, after about hundred years of His pari-nirvaana, the Second Buddhist Council was held here, which resulted in the split into the progressive Mahaa-saangika-s and the traditionalist Theravaadin-s.
+
+## vajra-lepa
+
+[See under 'preparation of the wall'].
+
+## vartana
+
+A family of shading techniques in painting to bring out depth and relief. There were at least three vartana techniques adopted in Ajanta and elsewhere in Indian paintings. They are patraja (shading-like-the-lines-of-a-leaf), binduja (dot-and-stipple-method), and airika (softening-hardlines). One can find all these methods used in Ajanta. Ujjotana (adding-highlights) was another method of bringing out depth and relief, by adding highlights. Vartana is also known as nimnonnata (high-relief) as against animnonnata (flat-style).
+
+## vault
+
+An arched roof or ceiling.
+
+## Vihaara
+
+The caves of Ajanta are divided into chaitya-s (temples) and vihaara-s (monasteries). The vihaara-s are rectangular halls with cells for the monks on the inner sides, leading out to verandahs. The oldest vihaara-s at Ajanta, Caves 8, 12, and 13, in that order, were the monasteries attached to the earliest Hinaayana chaitya-s, Caves 9 and 10, which have a square central hall, without pillars, opening into small living-rooms with stone beds. The vihaara-s of the Mahaayana group consist of Caves 6, 7, 11, 15, 16, 17, 18, 19 and 26, which are said to belong to the period between AD 450 and 550; whereas Caves 1, 2, 3, 4, 27 and 29 were perhaps hollowed out at a later period. By the middle of the 5th century the plan of the vihaara included the function of the chaitya by introducing imposing statues of the Buddha in place of the stoopa-s. And in order to accommodate a more numerous laity an antechamber and a shrine in the back-wall called the chaitya mandiram were added. The magnificent Caves 1 and 2 are both assigned to the 6th century AD, and represent Ajanta's resurgence of sophisticated painting in the face of the Hindu revival. Caves 1, 2, 4, 16, 19 and 26 contain some of best sculptures of Ajanta.
+
+Vishnu-dharmottara (11th century, AD) stresses the impossibility of attaining a proper expression of feeling in painting without a knowledge of the art of dance. In the old days mastery in the art of dancing was invariably considered essential for personal perfection.
+
+## Vishnu-dharmottara
+
+A 7th century treatise that details rules and canons for painting.
+
+While studying Ajanta paintings two interesting aspects in the portrayal of women can be noticed. Almost all the beautiful women of Ajanta are depicted as black beauties. The examples are: SHAKTI PANDARA (MJT 078), painted in the panel of Bodhi-sattva Avalokiteshvara in this cave, PRINCESS IRANDATI (KBL 130) of Vidhura-pandita Jaataka in Cave 2, the DYING PRINCESS (ASI 003) of Cave 16 and the famous BLACK APSARAS (KBL 169) painted as part of a large panel commonly called the Adoration Of The Buddha , are all painted 'as dark as the night'! Weren't both Rama and Krishna dark complexioned?
+
