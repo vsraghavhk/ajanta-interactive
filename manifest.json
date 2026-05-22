@@ -1,0 +1,420 @@
+{
+  "pages": [
+    {
+      "id": "foreword",
+      "title": "Foreword",
+      "subtitle": "by S. Swaminathan",
+      "files": [
+        "content/foreword.html"
+      ],
+      "toc": []
+    },
+    {
+      "id": "overview",
+      "title": "Overview of Ajanta",
+      "subtitle": "History · Location · Themes · Technique · Phases",
+      "files": [
+        "content/overview/intro.html",
+        "content/overview/ov-1.html",
+        "content/overview/ov-2.html",
+        "content/overview/ov-3.html",
+        "content/overview/ov-4.html",
+        "content/overview/ov-5.html",
+        "content/overview/ov-8.html",
+        "content/overview/ov-12.html",
+        "content/overview/ov-19.html",
+        "content/overview/ov-24.html"
+      ],
+      "toc": [
+        {
+          "label": "· 1. Discovery",
+          "anchor": "ov-1"
+        },
+        {
+          "label": "· 2. Location",
+          "anchor": "ov-2"
+        },
+        {
+          "label": "· 3. Layout &amp; Period",
+          "anchor": "ov-3"
+        },
+        {
+          "label": "· 4. Political Situation",
+          "anchor": "ov-4"
+        },
+        {
+          "label": "· 5. Themes &amp; Composition",
+          "anchor": "ov-5"
+        },
+        {
+          "label": "· 8. Painting Technique",
+          "anchor": "ov-8"
+        },
+        {
+          "label": "· 12. Producing Depth &amp; Relief",
+          "anchor": "ov-12"
+        },
+        {
+          "label": "· 19. Portrayal of Women",
+          "anchor": "ov-19"
+        },
+        {
+          "label": "· 24. Phases of Art",
+          "anchor": "ov-24"
+        }
+      ]
+    },
+    {
+      "id": "cave1",
+      "title": "Cave One",
+      "subtitle": "Vihaara · End of 5th century AD",
+      "files": [
+        "content/cave1/intro.html",
+        "content/cave1/c1-shibi.html",
+        "content/cave1/c1-nanda.html",
+        "content/cave1/c1-palace.html",
+        "content/cave1/c1-shankha.html",
+        "content/cave1/c1-janaka.html",
+        "content/cave1/c1-lustration.html",
+        "content/cave1/c1-padmapaani.html",
+        "content/cave1/c1-temptations.html",
+        "content/cave1/c1-avalo.html",
+        "content/cave1/c1-champeyya.html",
+        "content/cave1/c1-queen.html",
+        "content/cave1/c1-ceiling.html"
+      ],
+      "toc": [
+        {
+          "label": "· Shibi Jaataka",
+          "anchor": "c1-shibi"
+        },
+        {
+          "label": "· Conversion of Nanda",
+          "anchor": "c1-nanda"
+        },
+        {
+          "label": "· Palace Scene / Naaga Kingdom",
+          "anchor": "c1-palace"
+        },
+        {
+          "label": "· Shankha-paala Jaataka",
+          "anchor": "c1-shankha"
+        },
+        {
+          "label": "· Mahaa-janaka Jaataka",
+          "anchor": "c1-janaka"
+        },
+        {
+          "label": "· Lustration &amp; Renunciation",
+          "anchor": "c1-lustration"
+        },
+        {
+          "label": "· Bodhi-sattva Padma-paani",
+          "anchor": "c1-padmapaani"
+        },
+        {
+          "label": "· Temptations of the Buddha",
+          "anchor": "c1-temptations"
+        },
+        {
+          "label": "· Bodhi-sattva Avalokiteshvara",
+          "anchor": "c1-avalo"
+        },
+        {
+          "label": "· Champeyya Jaataka",
+          "anchor": "c1-champeyya"
+        },
+        {
+          "label": "· Queen in a Palace Scene",
+          "anchor": "c1-queen"
+        },
+        {
+          "label": "· Ceiling Paintings",
+          "anchor": "c1-ceiling"
+        }
+      ]
+    },
+    {
+      "id": "cave2",
+      "title": "Cave Two",
+      "subtitle": "Vihaara · End of 5th century AD",
+      "files": [
+        "content/cave2/intro.html",
+        "content/cave2/c2-hamsa.html",
+        "content/cave2/c2-nativity.html",
+        "content/cave2/c2-votaries.html",
+        "content/cave2/c2-thousand.html",
+        "content/cave2/c2-vidhura.html",
+        "content/cave2/c2-ceiling.html"
+      ],
+      "toc": [
+        {
+          "label": "· Mahaa-hamsa Jaataka",
+          "anchor": "c2-hamsa"
+        },
+        {
+          "label": "· Nativity of the Buddha",
+          "anchor": "c2-nativity"
+        },
+        {
+          "label": "· Votaries with Offerings",
+          "anchor": "c2-votaries"
+        },
+        {
+          "label": "· Thousand Buddhas",
+          "anchor": "c2-thousand"
+        },
+        {
+          "label": "· Vidhura-pandita Jaataka",
+          "anchor": "c2-vidhura"
+        },
+        {
+          "label": "· Ceiling Paintings",
+          "anchor": "c2-ceiling"
+        }
+      ]
+    },
+    {
+      "id": "cave6",
+      "title": "Cave Six",
+      "subtitle": "Two-storeyed vihaara",
+      "files": [
+        "content/cave6/intro.html",
+        "content/cave6/c6-bhikshu.html",
+        "content/cave6/c6-buddha.html"
+      ],
+      "toc": [
+        {
+          "label": "· Bhikshu with Lotus",
+          "anchor": "c6-bhikshu"
+        },
+        {
+          "label": "· Buddha baffles Critics",
+          "anchor": "c6-buddha"
+        }
+      ]
+    },
+    {
+      "id": "cave9",
+      "title": "Cave Nine",
+      "subtitle": "Chaitya · 1st century BC",
+      "files": [
+        "content/cave9/intro.html"
+      ],
+      "toc": []
+    },
+    {
+      "id": "cave10",
+      "title": "Cave Ten",
+      "subtitle": "Oldest Chaitya · 2nd century BC",
+      "files": [
+        "content/cave10/intro.html",
+        "content/cave10/c10-raja.html",
+        "content/cave10/c10-dancers.html",
+        "content/cave10/c10-shaddanta.html",
+        "content/cave10/c10-twofigures.html"
+      ],
+      "toc": [
+        {
+          "label": "· Raja with his Retinue",
+          "anchor": "c10-raja"
+        },
+        {
+          "label": "· Dancers and Musicians",
+          "anchor": "c10-dancers"
+        },
+        {
+          "label": "· Shad-danta Jaataka",
+          "anchor": "c10-shaddanta"
+        },
+        {
+          "label": "· Two Figures of the Buddha",
+          "anchor": "c10-twofigures"
+        }
+      ]
+    },
+    {
+      "id": "cave16",
+      "title": "Cave Sixteen",
+      "subtitle": "Vihaara · 5th century AD",
+      "files": [
+        "content/cave16/intro.html",
+        "content/cave16/c16-ummaga.html",
+        "content/cave16/c16-nanda.html",
+        "content/cave16/c16-dying.html"
+      ],
+      "toc": [
+        {
+          "label": "· Mahaa-Ummaga Jaataka",
+          "anchor": "c16-ummaga"
+        },
+        {
+          "label": "· Conversion of Nanda",
+          "anchor": "c16-nanda"
+        },
+        {
+          "label": "· Dying Princess",
+          "anchor": "c16-dying"
+        }
+      ]
+    },
+    {
+      "id": "cave17",
+      "title": "Cave Seventeen",
+      "subtitle": "Vihaara · 5th century AD",
+      "files": [
+        "content/cave17/intro.html",
+        "content/cave17/c17-vishvaantara.html",
+        "content/cave17/c17-descent.html",
+        "content/cave17/c17-yaksha.html",
+        "content/cave17/c17-maanushi.html",
+        "content/cave17/c17-miracle.html",
+        "content/cave17/c17-shaddanta.html",
+        "content/cave17/c17-kapi.html",
+        "content/cave17/c17-sutasoma.html",
+        "content/cave17/c17-preaches.html",
+        "content/cave17/c17-mother.html",
+        "content/cave17/c17-maatri.html",
+        "content/cave17/c17-mahisha.html",
+        "content/cave17/c17-simhala.html",
+        "content/cave17/c17-lady.html",
+        "content/cave17/c17-shibi.html",
+        "content/cave17/c17-mriga.html",
+        "content/cave17/c17-hamsa.html",
+        "content/cave17/c17-ceiling.html"
+      ],
+      "toc": [
+        {
+          "label": "· Vishvaantara Jaataka",
+          "anchor": "c17-vishvaantara"
+        },
+        {
+          "label": "· Descent of Indra",
+          "anchor": "c17-descent"
+        },
+        {
+          "label": "· Yaksha Couple &amp; Black Apsaras",
+          "anchor": "c17-yaksha"
+        },
+        {
+          "label": "· Maanushi Buddhas &amp; Mithuna Figures",
+          "anchor": "c17-maanushi"
+        },
+        {
+          "label": "· Miracle at Raja-griha",
+          "anchor": "c17-miracle"
+        },
+        {
+          "label": "· Shad-danta Jaataka",
+          "anchor": "c17-shaddanta"
+        },
+        {
+          "label": "· Mahaa-kapi Jaataka",
+          "anchor": "c17-kapi"
+        },
+        {
+          "label": "· Sutasoma Jaataka",
+          "anchor": "c17-sutasoma"
+        },
+        {
+          "label": "· Buddha preaches to Congregation",
+          "anchor": "c17-preaches"
+        },
+        {
+          "label": "· Mother and Child before the Buddha",
+          "anchor": "c17-mother"
+        },
+        {
+          "label": "· Maatri-poshaka Jaataka",
+          "anchor": "c17-maatri"
+        },
+        {
+          "label": "· Mahisha Jaataka",
+          "anchor": "c17-mahisha"
+        },
+        {
+          "label": "· Simhala Avadaana",
+          "anchor": "c17-simhala"
+        },
+        {
+          "label": "· Lady at her Toilet",
+          "anchor": "c17-lady"
+        },
+        {
+          "label": "· Shibi Jaataka / King's Eyes",
+          "anchor": "c17-shibi"
+        },
+        {
+          "label": "· Mriga Jaataka",
+          "anchor": "c17-mriga"
+        },
+        {
+          "label": "· Mahaa-hamsa Jaataka",
+          "anchor": "c17-hamsa"
+        },
+        {
+          "label": "· Ceiling Paintings",
+          "anchor": "c17-ceiling"
+        }
+      ]
+    },
+    {
+      "id": "cave19",
+      "title": "Cave Nineteen",
+      "subtitle": "Chaitya · Sculpture",
+      "files": [
+        "content/cave19/intro.html",
+        "content/cave19/c19-facade.html",
+        "content/cave19/c19-chaitya.html"
+      ],
+      "toc": [
+        {
+          "label": "· Facade &amp; Naaga Couple",
+          "anchor": "c19-facade"
+        },
+        {
+          "label": "· Chaitya Interior",
+          "anchor": "c19-chaitya"
+        }
+      ]
+    },
+    {
+      "id": "cave26",
+      "title": "Cave Twenty-six",
+      "subtitle": "Chaitya · Parinirvaana",
+      "files": [
+        "content/cave26/intro.html",
+        "content/cave26/c26-parinirvana.html",
+        "content/cave26/c26-temptations.html"
+      ],
+      "toc": [
+        {
+          "label": "· Mahaa-parinirvaana",
+          "anchor": "c26-parinirvana"
+        },
+        {
+          "label": "· Temptations of the Buddha",
+          "anchor": "c26-temptations"
+        }
+      ]
+    },
+    {
+      "id": "bibliography",
+      "title": "Bibliography",
+      "subtitle": "Further Reading",
+      "files": [
+        "content/bibliography.html"
+      ],
+      "toc": []
+    },
+    {
+      "id": "about",
+      "title": "About the Author",
+      "subtitle": "S. Swaminathan",
+      "files": [
+        "content/about.html"
+      ],
+      "toc": []
+    }
+  ]
+}
