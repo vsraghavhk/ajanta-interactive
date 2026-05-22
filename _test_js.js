@@ -1,174 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ajanta — An Interactive Guide</title>
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=IM+Fell+English:ital@0;1&family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
-<style>
-:root{
-  --bg:#1C1208;--panel-bg:#F5EDD8;--panel-dark:#EAD9B8;
-  --border:#8B6840;--border-lt:#C4A06A;
-  --text:#1A0E04;--text-lt:#3D2710;--caption:#5C3D1A;
-  --gold:#9B6B1A;--gold-lt:#C4922A;--red:#7A1F10;
-  --link:#2A1F78;--link-hover:#7A1F10;
-  --sidebar-bg:#2A1A0A;
-}
-*{margin:0;padding:0;box-sizing:border-box;}
-html{font-size:15px;}
-body{background:var(--bg);font-family:'Libre Baskerville',Georgia,serif;color:var(--text);height:100vh;display:flex;flex-direction:column;overflow:hidden;}
-.titlebar{background:linear-gradient(to right,#3A1A05,#7A4010,#3A1A05);color:#F5E8C8;font-family:'Cinzel',serif;font-size:13px;letter-spacing:.15em;padding:7px 16px;display:flex;align-items:center;gap:10px;border-bottom:2px solid var(--gold);flex-shrink:0;}
-.titlebar-text{flex:1;text-align:center;}
-.titlebar-sub{font-size:10px;letter-spacing:.3em;opacity:.7;margin-top:1px;font-family:'Libre Baskerville',serif;font-style:italic;}
-.menubar{background:var(--panel-dark);border-bottom:2px solid var(--border);padding:0 6px;display:flex;flex-wrap:wrap;gap:1px;align-items:stretch;flex-shrink:0;}
-.menu-btn{font-family:'Cinzel',serif;font-size:10px;letter-spacing:.1em;padding:6px 10px;background:transparent;border:none;cursor:pointer;color:var(--text-lt);text-transform:uppercase;border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap;}
-.menu-btn:hover,.menu-btn.active{color:var(--red);border-bottom-color:var(--red);background:rgba(122,31,16,.06);}
-.app-body{display:flex;flex:1;overflow:hidden;min-height:0;}
-.sidebar{width:200px;min-width:200px;background:var(--sidebar-bg);border-right:2px solid var(--gold);overflow-y:auto;display:flex;flex-direction:column;flex-shrink:0;}
-.sidebar-hdr{background:linear-gradient(135deg,#5A2800,#3A1A00);color:var(--gold-lt);font-family:'Cinzel',serif;font-size:10px;letter-spacing:.25em;padding:9px 12px;text-transform:uppercase;border-bottom:1px solid var(--gold);flex-shrink:0;}
-.toc-sec{border-bottom:1px solid #3A2A10;}
-.toc-lbl{background:rgba(196,146,42,.1);color:var(--gold-lt);font-family:'Cinzel',serif;font-size:9px;letter-spacing:.18em;text-transform:uppercase;padding:7px 12px 6px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;user-select:none;}
-.toc-lbl:hover{background:rgba(196,146,42,.2);}
-.toc-arr{font-size:8px;transition:transform .2s;display:inline-block;}
-.toc-sec.open .toc-arr{transform:rotate(90deg);}
-.toc-items{display:none;}
-.toc-sec.open .toc-items{display:block;}
-.toc-item{display:block;padding:5px 10px 5px 16px;font-size:12px;color:#C4A878;cursor:pointer;border-left:2px solid transparent;transition:all .15s;line-height:1.35;}
-.toc-item:hover{color:#F5E8C8;background:rgba(196,146,42,.1);border-left-color:var(--gold-lt);}
-.toc-item.active{color:#F5E8C8;background:rgba(122,31,16,.25);border-left-color:var(--red);}
-.toc-sub{display:block;padding:3px 10px 3px 26px;font-size:11px;color:#A08858;cursor:pointer;transition:all .15s;}
-.toc-sub:hover{color:#C4A878;}
-.content-area{flex:1;overflow-y:auto;background:#2A1A08;min-width:0;}
-.page{display:none;flex-direction:column;min-height:100%;}
-.page.active{display:flex;}
-.page-inner{background:var(--panel-bg);margin:12px;border:2px solid var(--border);box-shadow:4px 4px 16px rgba(0,0,0,.5);flex:1;display:flex;flex-direction:column;}
-.page-hdr{background:linear-gradient(135deg,#5A2800 0%,#8B4A10 50%,#5A2800 100%);padding:10px 20px 9px;border-bottom:2px solid var(--gold);flex-shrink:0;}
-.page-title{font-family:'Cinzel',serif;font-size:18px;color:#F5E8C8;letter-spacing:.08em;}
-.page-sub{font-family:'IM Fell English',serif;font-style:italic;font-size:12px;color:#C4A878;opacity:.85;margin-top:2px;}
-.page-body{padding:16px 22px 20px;flex:1;overflow:visible;}
-.page-body p{font-size:13.5px;line-height:1.85;color:var(--text);margin-bottom:10px;text-align:justify;}
-.page-body p.first::first-letter{font-family:'IM Fell English',serif;font-size:50px;line-height:.82;float:left;margin:4px 8px 0 0;color:var(--red);}
-.page-body h2,.page-body h3,.page-body h4,.page-body h5{font-family:'Cinzel',serif;font-size:11px;letter-spacing:.2em;color:var(--gold);text-transform:uppercase;margin:18px 0 7px;padding-bottom:3px;border-bottom:1px solid rgba(196,146,42,.3);}
-.img-ref{display:inline-block;background:rgba(155,107,26,.12);border:1px solid var(--border-lt);padding:1px 5px;font-family:'Cinzel',serif;font-size:9px;letter-spacing:.12em;color:var(--gold);cursor:pointer;margin:0 2px;vertical-align:middle;}
-.img-ref:hover{background:rgba(155,107,26,.28);color:var(--red);}
-.line-ref{display:inline-block;background:rgba(60,31,16,.1);border:1px dashed var(--border);padding:1px 5px;font-size:11px;color:var(--caption);margin:0 2px;vertical-align:middle;font-style:italic;}
-.gl-entry{padding:8px 0;border-bottom:1px solid rgba(139,104,64,.2);display:grid;grid-template-columns:190px 1fr;gap:10px;}
-.gl-term{font-family:'IM Fell English',serif;font-size:14px;color:var(--red);font-style:italic;padding-top:2px;}
-.gl-def{font-size:13px;line-height:1.7;color:var(--text-lt);}
-@media(max-width:580px){.gl-entry{grid-template-columns:1fr;gap:2px;}}
-.home-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:2px;margin:10px 0;}
-.home-card{background:var(--panel-dark);border:1px solid var(--border-lt);padding:10px 12px 9px;cursor:pointer;transition:all .15s;}
-.home-card:hover{background:#D4B896;border-color:var(--gold-lt);}
-.home-num{font-family:'Cinzel',serif;font-size:9px;letter-spacing:.2em;color:var(--gold);margin-bottom:4px;}
-.home-title{font-family:'IM Fell English',serif;font-size:15px;color:var(--text);margin-bottom:2px;}
-.home-sub{font-size:11px;color:var(--caption);font-style:italic;}
-.img-popup{display:none;position:fixed;z-index:200;background:var(--panel-bg);border:2px solid var(--border);box-shadow:6px 6px 20px rgba(0,0,0,.5);max-width:380px;min-width:240px;}
-.img-popup.visible{display:block;}
-.img-pop-head{background:linear-gradient(135deg,#5A2800,#8B4A10);padding:8px 12px;color:#F5E8C8;font-family:'Cinzel',serif;font-size:10px;letter-spacing:.2em;display:flex;justify-content:space-between;align-items:center;}
-.img-pop-close{cursor:pointer;font-size:15px;background:none;border:none;color:#F5E8C8;line-height:1;}
-.img-pop-body{padding:12px;display:flex;flex-direction:column;align-items:center;gap:8px;}
-.img-ph-box{background:linear-gradient(135deg,#D4C4A0,#C4B490);border:1px dashed var(--border);width:100%;min-height:140px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;}
-.img-ph-id{font-family:'Cinzel',serif;font-size:10px;letter-spacing:.18em;color:var(--gold);opacity:.75;}
-.img-ph-cap{font-size:11px;color:var(--caption);font-style:italic;text-align:center;line-height:1.5;padding:0 4px;}
-.img-hint{font-size:10px;color:var(--caption);opacity:.6;text-align:center;font-style:italic;}
-.statusbar{background:var(--panel-dark);border-top:1px solid var(--border);padding:3px 16px;font-size:11px;color:var(--caption);display:flex;justify-content:space-between;align-items:center;flex-shrink:0;}
-::-webkit-scrollbar{width:7px;}
-::-webkit-scrollbar-track{background:#1A0E04;}
-::-webkit-scrollbar-thumb{background:var(--border);}
-::-webkit-scrollbar-thumb:hover{background:var(--gold);}
-</style>
-</head>
-<body>
 
-<div class="titlebar">
-  <span style="font-size:18px">🪷</span>
-  <div class="titlebar-text">
-    <div>AJANTA — An Interactive Guide</div>
-    <div class="titlebar-sub">by S. Swaminathan &nbsp;·&nbsp; IIT Delhi</div>
-  </div>
-</div>
-
-<div class="menubar">
-  <button class="menu-btn active" onclick="nav('home')">Home</button>
-  <button class="menu-btn" onclick="nav('foreword')">Foreword</button>
-  <button class="menu-btn" onclick="nav('overview')">Overview</button>
-  <button class="menu-btn" onclick="nav('cave1')">Cave I</button>
-  <button class="menu-btn" onclick="nav('cave2')">Cave II</button>
-  <button class="menu-btn" onclick="nav('cave6')">Cave VI</button>
-  <button class="menu-btn" onclick="nav('cave9')">Cave IX</button>
-  <button class="menu-btn" onclick="nav('cave10')">Cave X</button>
-  <button class="menu-btn" onclick="nav('cave16')">Cave XVI</button>
-  <button class="menu-btn" onclick="nav('cave17')">Cave XVII</button>
-  <button class="menu-btn" onclick="nav('cave19')">Cave XIX</button>
-  <button class="menu-btn" onclick="nav('cave26')">Cave XXVI</button>
-  <button class="menu-btn" onclick="nav('glossary')">Glossary</button>
-  <button class="menu-btn" onclick="nav('bibliography')">Bibliography</button>
-  <button class="menu-btn" onclick="nav('about')">About</button>
-</div>
-
-<div class="app-body">
-<nav class="sidebar" id="sidebar">
-  <div class="sidebar-hdr">Contents</div>
-</nav>
-
-<div class="content-area" id="content-area">
-
-<!-- HOME — static, always in shell -->
-<div class="page active" id="page-home">
-<div class="page-inner">
-<div class="page-hdr"><div class="page-title">Ajanta — An Interactive Guide</div><div class="page-sub">The World's Greatest Surviving Buddhist Murals · by S. Swaminathan, IIT Delhi</div></div>
-<div class="page-body">
-<p class="first">The caves of Ajanta represent the highest achievement of Indian Buddhist art — a beginning to the end of a great tradition and a glorious chapter in the world history of wall painting. Cut into the rock of a horseshoe-shaped gorge in Maharashtra, these twenty-nine caves contain paintings executed over eight centuries, from the 2nd century BC to the 6th century AD.</p>
-<p>This interactive guide, prepared by S. Swaminathan of IIT Delhi, covers every cave and every important painting in the author's own unabridged words. Use the <strong>Contents panel</strong> on the left or the <strong>menu bar</strong> above to navigate. <strong>Image references</strong> like <span class="img-ref" style="cursor:default;pointer-events:none">Kbl 069</span> are clickable — they show the painting catalogue entry. You may add actual photographs by inserting &lt;img&gt; tags at the corresponding locations. The full <strong>Glossary</strong> provides definitions for all Sanskrit and technical terms.</p>
-<h3>Select a Cave or Topic</h3>
-<div class="home-grid">
-<div class="home-card" onclick="nav('foreword')"><div class="home-num">Preface</div><div class="home-title">Foreword</div><div class="home-sub">by S. Swaminathan</div></div>
-<div class="home-card" onclick="nav('overview')"><div class="home-num">Section I</div><div class="home-title">Overview</div><div class="home-sub">History &amp; setting</div></div>
-<div class="home-card" onclick="nav('cave1')"><div class="home-num">Cave · I</div><div class="home-title">Cave One</div><div class="home-sub">Vihaara · 5th–6th c. AD</div></div>
-<div class="home-card" onclick="nav('cave2')"><div class="home-num">Cave · II</div><div class="home-title">Cave Two</div><div class="home-sub">Vihaara · 5th–6th c. AD</div></div>
-<div class="home-card" onclick="nav('cave6')"><div class="home-num">Cave · VI</div><div class="home-title">Cave Six</div><div class="home-sub">Two-storeyed vihaara</div></div>
-<div class="home-card" onclick="nav('cave9')"><div class="home-num">Cave · IX</div><div class="home-title">Cave Nine</div><div class="home-sub">Chaitya · 1st c. BC</div></div>
-<div class="home-card" onclick="nav('cave10')"><div class="home-num">Cave · X</div><div class="home-title">Cave Ten</div><div class="home-sub">Chaitya · 2nd c. BC</div></div>
-<div class="home-card" onclick="nav('cave16')"><div class="home-num">Cave · XVI</div><div class="home-title">Cave Sixteen</div><div class="home-sub">Vihaara · 5th c. AD</div></div>
-<div class="home-card" onclick="nav('cave17')"><div class="home-num">Cave · XVII</div><div class="home-title">Cave Seventeen</div><div class="home-sub">Vihaara · 5th c. AD</div></div>
-<div class="home-card" onclick="nav('cave19')"><div class="home-num">Cave · XIX</div><div class="home-title">Cave Nineteen</div><div class="home-sub">Chaitya · Sculpture</div></div>
-<div class="home-card" onclick="nav('cave26')"><div class="home-num">Cave · XXVI</div><div class="home-title">Cave Twenty-six</div><div class="home-sub">Chaitya · Parinirvaana</div></div>
-<div class="home-card" onclick="nav('glossary')"><div class="home-num">Reference</div><div class="home-title">Glossary</div><div class="home-sub">Sanskrit &amp; technical terms</div></div>
-<div class="home-card" onclick="nav('bibliography')"><div class="home-num">Reference</div><div class="home-title">Bibliography</div><div class="home-sub">Further reading</div></div>
-<div class="home-card" onclick="nav('about')"><div class="home-num">Author</div><div class="home-title">About</div><div class="home-sub">S. Swaminathan</div></div>
-</div>
-</div></div></div>
-
-<!-- GLOSSARY — JS-rendered, stays in shell -->
-<div class="page" id="page-glossary"><div class="page-inner"><div class="page-hdr"><div class="page-title">Glossary (A–Z)</div><div class="page-sub">Sanskrit and technical terms</div></div><div class="page-body" id="body-glossary"></div></div></div>
-
-<!-- All other pages are created dynamically by showPage() -->
-
-</div><!-- end content-area -->
-</div><!-- end app-body -->
-
-<div class="statusbar">
-  <span id="status-txt">Ready · Select a topic from the Contents panel or menu bar</span>
-  <span>Ajanta — An Interactive Guide · S. Swaminathan, IIT Delhi</span>
-</div>
-
-<!-- IMAGE POPUP -->
-<div class="img-popup" id="img-popup">
-  <div class="img-pop-head">
-    <span id="img-pop-label">Image Reference</span>
-    <button class="img-pop-close" onclick="closeImg()">✕</button>
-  </div>
-  <div class="img-pop-body" id="img-pop-body">
-    <div class="img-ph-box" id="img-ph-placeholder">
-      <svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="#8B6840" stroke-width="1.5" opacity=".35"><rect x="2" y="2" width="40" height="40" rx="2"/><path d="M2 17 L42 17"/><circle cx="22" cy="30" r="7"/></svg>
-      <div class="img-ph-id" id="img-pop-ref">—</div>
-    </div>
-    <div class="img-ph-cap" id="img-pop-cap"></div>
-    <div class="img-hint">Click outside to close &nbsp;·&nbsp; Replace with &lt;img&gt; tag to add the actual photograph</div>
-  </div>
-</div>
-
-<script>
 const IMAGE_PATHS = {
   "ASI 003": "images/cave16/ASI_003",
   "ASI 006": "images/cave1/ASI_006",
@@ -628,30 +458,16 @@ document.addEventListener('click', e => {
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeImg(); });
 
 async function loadManifest() {
-  if (location.protocol === 'file:') {
-    document.getElementById('sidebar').innerHTML =
-      '<p style="padding:12px;color:#c44;font-size:13px;">Open via HTTP server, not file://.<br>Run: <code>python -m http.server 8000</code><br>Then visit <a href="http://localhost:8000" style="color:#88aaff">http://localhost:8000</a></p>';
-    return;
-  }
-  let manifest;
   try {
     const r = await fetch('manifest.json');
-    if (!r.ok) throw new Error('HTTP ' + r.status + ' fetching manifest.json');
-    manifest = await r.json();
+    MANIFEST = await r.json();
+    buildSidebar();
   } catch(e) {
     console.error('Failed to load manifest.json:', e);
-    document.getElementById('sidebar').innerHTML =
-      '<p style="padding:12px;color:#c44;font-size:13px;">Could not load manifest.json:<br>' + e.message + '</p>';
-    return;
   }
-  MANIFEST = manifest;
-  buildSidebar();
   const id = location.hash.slice(1) || 'home';
   history.replaceState({page: id}, '', '#' + id);
   showPage(id);
 }
 
 loadManifest();
-</script>
-</body>
-</html>
